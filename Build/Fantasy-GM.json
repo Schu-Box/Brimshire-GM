@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Fantasy-GM.data.unityweb",
+"asmCodeUrl": "Fantasy-GM.asm.code.unityweb",
+"asmMemoryUrl": "Fantasy-GM.asm.memory.unityweb",
+"asmFrameworkUrl": "Fantasy-GM.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
